@@ -13,7 +13,7 @@ public class CustomerClient extends Main{
     //Constructor
     public CustomerClient(){  
         String host = "";
-        String uName = "s";
+        String uName = "";
         String passwd = "";
         try {
             // Establish a connection to your database
